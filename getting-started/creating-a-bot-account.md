@@ -42,12 +42,12 @@ user account.
 
 ### Self Bots \(User Bots\)
 
-1) Open the official Discord Client or the Web Application
-2) Press `CTRL + SHIFT + I`, the developer console should appear (similar to the one in the gif below)
-3) Click on the _Application_ tab
-4) Under the _Storage_ section, expand _Local Storage_.
-5) Click on _https://discordapp.com_ under _Local Storage_.
-6) In the table that appears, find the value for `token`. Copy this value.
+1. Open the official Discord Client or the Web Application
+2. Press `CTRL + SHIFT + I`, the developer console should appear (similar to the one in the gif below)
+3. Click on the _Application_ tab
+4. Under the _Storage_ section, expand _Local Storage_.
+5. Click on _https://discordapp.com_ under _Local Storage_.
+6. In the table that appears, find the value for `token`. Copy this value.
 
 <img src="../assets/user-token.gif" width="480"/>
 
