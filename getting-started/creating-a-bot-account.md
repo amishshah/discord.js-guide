@@ -29,7 +29,7 @@ They are not allowed to scrape for invites and are subject to the same
 Bot accounts should be used for any serious development of bots. They can be identified by
 their _BOT_ badge next to the username:
 
-<img src="../assets/bot-account.png" />
+<img src="../assets/bot-account-badge.png" />
 
 ## 2) Getting an Account Token
 
