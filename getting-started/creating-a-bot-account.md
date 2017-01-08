@@ -24,7 +24,7 @@ the [Discord API](https://discordapp.com/developers/docs/intro), e.g. bulk-delet
 Real bots are known as bot accounts. They are allowed to interact with other users and generally
 have access to more features of discord.js and the [Discord API](https://discordapp.com/developers/docs/intro).
 They are not allowed to scrape for invites and are subject to the same
-[Terms of Service](https://discordapp.com/tos) as any other account.
+[Terms of Service](https:\/\/discordapp.com/tos) as any other account.
 
 Bot accounts should be used for any serious development of bots. They can be identified by
 their _BOT_ badge next to the username:
