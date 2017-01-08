@@ -70,7 +70,8 @@ An application on Discord can be used to create a bot, so you need to make an ap
 3. Click _New App_
 4. Give your application a name, e.g. Dice Bot
 5. Give your application a description, e.g. Rolls a dice
-6. Click _Create App_
+6. If you want to, give your application an icon (this will be the avatar of the bot)
+7. Click _Create App_
 
 <img src="../assets/application-creation.gif" width="480"/>
 
@@ -81,3 +82,6 @@ An application on Discord can be used to create a bot, so you need to make an ap
 3. Copy the token that is present
 
 <img src="../assets/application-to-bot.gif" width="480"/>
+
+You may also choose to uncheck the _Public Bot_ checkbox if you don't want your bot being added by
+users other than yourself. You can modify this at any time. 
