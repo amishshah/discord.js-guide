@@ -29,7 +29,7 @@ They are not allowed to scrape for invites and are subject to the same
 Bot accounts should be used for any serious development of bots. They can be identified by
 their _BOT_ badge next to the username:
 
-<img src="../assets/bot-account.png">
+<img src="../assets/bot-account.png" />
 
 ## 2) Getting an Account Token
 
@@ -42,4 +42,19 @@ user account.
 
 ### Self Bots \(User Bots\)
 
-1) From either the official Discord Client or the web application,
+1) Open the official Discord Client or the Web Application
+2) Press `CTRL + SHIFT + I`, the developer console should appear (similar to the one in the gif below)
+3) Click on the _Application_ tab
+4) Under the _Storage_ section, expand _Local Storage_.
+5) Click on _https://discordapp.com_ under _Local Storage_.
+6) In the table that appears, find the value for `token`. Copy this value.
+
+<img src="../assets/user-token.gif" width="480"/>
+
+After following these steps, you should have copied your token.
+
+In the gif above the token that was copied
+is `MjYxNjAyNDA3MzI1MjM3MjQ5.Cz3Yyg.k3UasL4Ay2QLTlV3D4jkvnrzA04` (don't worry, this token doesn't work 😛).
+
+If there are
+any quotation marks at the start or end of this token, remove them. Keep this token safe and secure.
