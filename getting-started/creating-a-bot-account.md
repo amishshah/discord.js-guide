@@ -84,4 +84,7 @@ An application on Discord can be used to create a bot, so you need to make an ap
 <img src="../assets/application-to-bot.gif" width="480"/>
 
 You may also choose to uncheck the _Public Bot_ checkbox if you don't want your bot being added by
-users other than yourself. You can modify this at any time. 
+users other than yourself. You can modify this at any time.
+
+## Next
+After you have your bot token, take a look at how to [install discord.js](./installing-discordjs.html)
