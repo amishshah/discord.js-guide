@@ -40,21 +40,44 @@ Once you have obtained an account token following the steps below, make sure you
 token, they have full access to your bot account. If you are using a self-bot, they have full access to your
 user account.
 
-### Self Bots \(User Bots\)
+### Tokens for Self Bots \(User Bots\)
 
 1. Open the official Discord Client or the Web Application
-2. Press `CTRL + SHIFT + I` \(or `⌘ + OPTION + I` on macOS\). The developer console should appear (similar to the one in the gif below)
+2. Press `CTRL + SHIFT + I` \(or `⌘ + OPTION + I` on macOS\). The developer console should appear
+(similar to the one in the gif below)
 3. Click on the _Application_ tab
-4. Under the _Storage_ section, expand _Local Storage_.
-5. Click on _https://discordapp.com_ under _Local Storage_.
-6. In the table that appears, find the value for `token`. Copy this value.
+4. Under the _Storage_ section, expand _Local Storage_
+5. Click on _https://discordapp.com_ under _Local Storage_
+6. In the table that appears, find the value for `token` - copy this value
 
 <img src="../assets/user-token.gif" width="480"/>
 
 After following these steps, you should have copied your token.
 
-In the gif above the token that was copied
-is `MjYxNjAyNDA3MzI1MjM3MjQ5.Cz3Yyg.k3UasL4Ay2QLTlV3D4jkvnrzA04` (don't worry, this token doesn't work 😛).
+In the gif, above the token that was copied
+is `MjYxNjAyNDA3MzI1MjM3MjQ5.Cz3Yyg.k3UasL4Ay2QLTlV3D4jkvnrzA04` (don't worry, this token won't work 😛).
 
-If there are
-any quotation marks at the start or end of this token, remove them. Keep this token safe and secure.
+If there are any quotation marks at the start or end of this token, remove them. Keep this token safe and secure.
+
+### Tokens for "Real" Bots:
+
+#### Creating your Bot Application
+
+An application on Discord can be used to create a bot, so you need to make an application first:
+
+1. Login to the browser version of Discord
+2. Go to the [Developer Applications](https://discordapp.com/developers/applications/me) section
+3. Click _New App_
+4. Give your application a name, e.g. Dice Bot
+5. Give your application a description, e.g. Rolls a dice
+6. Click _Create App_
+
+<img src="../assets/application-creation.gif" width="480"/>
+
+#### Getting the Application's Token
+
+1. Click _Create a Bot User_ then _Yes, do it!_
+2. Click _click to reveal_ next to the Token field
+3. Copy the token that is present
+
+<img src="../assets/application-to-bot.gif" width="480"/>
