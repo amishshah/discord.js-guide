@@ -87,4 +87,4 @@ You may also choose to uncheck the _Public Bot_ checkbox if you don't want your 
 users other than yourself. You can modify this at any time.
 
 ## Next
-After you have your bot token, take a look at how to [install discord.js](./installing-discordjs.html)
+After you have your bot token, take a look at how to [install discord.js](./installing-discordjs-windows.html)
