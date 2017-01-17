@@ -7,3 +7,4 @@
     * [Installing Discord.js - Linux](getting-started/installing-discordjs-linux.md)
 * Developing a Bot
     * [Creating your first bot](development/first-bot.md)
+    * [Understanding Events](development/understanding-events.md)
