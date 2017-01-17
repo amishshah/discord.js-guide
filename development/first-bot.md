@@ -39,6 +39,9 @@ client.login('your bot token');
 Replace `your bot token` with your bot's token, and open up a command prompt or terminal in your bot's folder.
 Run `node bot.js` and try sending `ping!` to a text channel the bot is in.
 
+> As a quick note, in this guide you may see "ES6" and wonder what we're referring to. JavaScript is
+also known as ECMAScript, and ES6 is a version of it.
+
 ### Breaking it down
 
 Before we start to look at developing a more useful bot, let's have a look at what is happening:
@@ -70,3 +73,8 @@ client.on('ready', () => {
 ```
 This is another event listener for the _ready_ event. Again, we'll talk about events later, but for now all you need to
 know is that when the _ready_ event is fired, your bot is ready to start working.
+
+## What's next?
+
+In the [next chapter](understanding-events.md), we'll take a look at understanding the concept of events that we have touched
+on in this chapter.
