@@ -23,6 +23,6 @@ process. It makes distributing and managing your bot much easier in the future.
 Install discord.js with `npm install --save discord.js`.
 
 > If you want your bot to be able to play and receive audio in voice channels, also type
-`npm install --global ffmpeg-binaries`.
+`npm install --global ffmpeg-binaries node-opus`.
 
 You may see `UNMET PEER DEP` errors, ignore them. You can ensure discord.js is installed by running `npm list discord.js`.
