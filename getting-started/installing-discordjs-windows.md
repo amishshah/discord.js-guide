@@ -1,11 +1,9 @@
-# Installing Discord.js
+# Installing Discord.js (Windows)
 
 Now that you've got your [bot account created](./creating-a-bot-account.html), we can start installing discord.js!
 
-## Windows
-
 ## TL;DR
-* Install [node.js v6](https://nodejs.org/en/) and above
+* [Node.js v6 and above](https://nodejs.org/en/)
 * If you don't already have Python 2.7 and Visual Studio, run `npm install --global windows-build-tools`
 * `npm install --save discord.js` in your bot's project folder
 * Good to go!
@@ -46,6 +44,6 @@ in the future.
 Install discord.js with `npm install --save discord.js`.
 
 > If you want your bot to be able to play and receive audio in voice channels, also type
-`npm install --global ffmpeg-binaries`.
+`npm install --global ffmpeg-binaries node-opus`.
 
 You may see `UNMET PEER DEP` errors, ignore them. You can ensure discord.js is installed by running `npm list discord.js`.
