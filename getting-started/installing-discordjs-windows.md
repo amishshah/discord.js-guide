@@ -4,6 +4,12 @@ Now that you've got your [bot account created](./creating-a-bot-account.html), w
 
 ## Windows
 
+## TL;DR
+* Install [node.js v6](https://nodejs.org/en/) and above
+* If you don't already have Python 2.7 and Visual Studio, run `npm install --global windows-build-tools`
+* `npm install --save discord.js` in your bot's project folder
+* Good to go!
+
 ## Installing node.js
 To install discord.js on Windows, you need to begin by installing [node.js](https://nodejs.org/en/). If you already have
 node, please make sure your version is anything greater than or equal to 6.0.0 - you can check using `node --version`. If
